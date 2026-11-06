@@ -1,5 +1,7 @@
 # 🎬 LCK Cinema Watch Party 3D
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FItzxMe741%2FWatchPartyGame&root-directory=client)
+
 Một không gian rạp chiếu phim 3D ảo (Virtual 3D Cinema) dành cho người hâm mộ LCK và Esports. Cùng bạn bè vào xem YouTube / Live stream, trò chuyện, thay áo đấu các đội LCK (T1, Gen.G, HLE, DK...) và meme "Hít Oxy" khẩn cấp!
 
 ---
